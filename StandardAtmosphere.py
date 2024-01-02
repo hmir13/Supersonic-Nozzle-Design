@@ -1,9 +1,9 @@
 from math import e # Euler's constant 
 
-class StandardAtmosphere(object):
+class StandardAtmosphere:
     '''
     Class for calculating accurate atmospheric properties throughout 
-    different regions of the Earth's atmosphere
+    different regions of the Earth's atmosphere in SI units
 
     John Anderson Introduction to Flight (Eighth Edition)
     '''
